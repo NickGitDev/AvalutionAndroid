@@ -19,7 +19,7 @@ Ce projet est une application Android utilisant Jetpack Compose et l'API publiqu
 ---
 
 ### **Fonctionnalités Implémentées :**
-1. Affichage d'une liste paginée des personnages (nom, image, statut).
+1. Affichage d'une liste des personnages (nom, image...).
 2. Navigation vers un écran de détails pour afficher des informations supplémentaires sur un personnage.
 3. Gestion de la navigation avec `NavController`.
 4. Ajout de sons et vibrations lors des interactions utilisateur.
